@@ -1,0 +1,23 @@
+{
+	"model_name" : "vgg16",
+
+	"no_iid" : "no",
+
+	"no_models" : 1,
+
+	"dataset" : "cifar10",
+
+	"beta": 0.5,
+
+	"global_epochs" :100,
+
+	"local_epochs" :10,
+
+	"batch_size" : 32,
+
+	"lr" : 0.005,
+
+	"momentum" : 0.0001
+	
+
+}
