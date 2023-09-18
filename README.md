@@ -20,7 +20,7 @@ The dataset is available on the website(https://drive.google.com/file/d/11uvTkdR
 Training the FedCut for LeNet-5
 
 ```bash
-cd FedCut-LeNet-5
+cd FLavg-LeNet-5
 python main_FedCut.py
 ```
 
